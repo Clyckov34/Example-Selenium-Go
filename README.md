@@ -8,7 +8,7 @@
     <ol>
 </div>
 
-```
+```Go
 package main
 
 import (
